@@ -59,7 +59,7 @@ public class FileHandler {
 
             // baca tipe game
             String gameType = reader.readLine().trim();
-            if (!gameType.equals("DEFAULT") && !gameType.equals("CUSTOM") && !gameType.equals("PYRAMID")) {
+            if (!gameType.equals("DEFAULT")) {
                 throw new IllegalArgumentException("Game type tidak valid!");
             }
 
