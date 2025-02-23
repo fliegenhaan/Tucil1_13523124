@@ -1,0 +1,10 @@
+Solusi:
+AGGGD
+AABDD
+CCBBE
+CFFEE
+FFFEE
+
+
+Waktu eksekusi: 321 ms
+Jumlah iterasi: 27407

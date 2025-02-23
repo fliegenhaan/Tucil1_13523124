@@ -1,0 +1,9 @@
+Solusi:
+AEEE
+AACE
+BCCD
+BBDD
+
+
+Waktu eksekusi: 23 ms
+Jumlah iterasi: 366

@@ -1,0 +1,8 @@
+Solusi:
+CCDD
+ACBD
+AABB
+
+
+Waktu eksekusi: 5 ms
+Jumlah iterasi: 12352

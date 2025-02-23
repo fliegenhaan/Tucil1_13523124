@@ -1,0 +1,10 @@
+Solusi:
+ABBBC
+AABBC
+AACCC
+DDEEE
+DDEEE
+
+
+Waktu eksekusi: 75 ms
+Jumlah iterasi: 4118

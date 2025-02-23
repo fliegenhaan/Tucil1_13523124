@@ -1,0 +1,12 @@
+Solusi:
+AABDDFF
+AABBDDF
+CAEEEDF
+CCCEHHJ
+GCEEEHJ
+GGGGIHJ
+GIIIIHJ
+
+
+Waktu eksekusi: 2814 ms
+Jumlah iterasi: 164488
